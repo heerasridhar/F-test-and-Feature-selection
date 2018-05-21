@@ -15,15 +15,14 @@ Use GenomeTrainXY.txt to select 100 top-ranked genes based on f-test.
 
 Task B: 
 
-Use the above selected genes as the features, train the four classifiers
+The above selected genes as the features are used to train the four classifiers
 
-
-a: SVM linear kernel
-b: linear regression
-c: KNN (k=3)
-d: centroid method
+a. SVM linear kernel
+b.linear regression
+c.KNN (k=3)
+d.centroid method
 
 Task C:
 
-Use trained classifiers to predict the class labels of data instances provided in GenomeTestX.txt
+Used the trained classifiers to predict the class labels of data instances provided in GenomeTestX.txt
 There are total 10 data instances.
